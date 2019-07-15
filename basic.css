@@ -1,4 +1,25 @@
+
 p {
-font: 0.9em Arial;
-color: #040;
+font: 0.9em ariel;
+
 }
+
+h1 {
+	
+}
+
+h2 {
+	
+}
+
+a {
+	color: #588;
+}
+
+body {
+	background-color: #366;
+    color: #9cc;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
